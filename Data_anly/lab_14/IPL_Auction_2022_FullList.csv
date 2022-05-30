@@ -1,0 +1,590 @@
+Set No.,Set Name,Player,Country,State Association,Age,Specialism,Batting,Bowling,IPL,Previous IPLTeam(s),2021 Team,C/U/A,Base Price,Sold Price,New Franchise,Bid
+1,M,Trent Boult,New Zealand,,32,BOWLER,RHB,LEFT ARM Fast Medium,62,"SRH, KKR, DD,MI",MI,Capped,200,8 CR,Rajasthan Royals,Sold
+1,M,Pat Cummins,Australia,,28,ALL-ROUNDER,RHB,RIGHT ARM Fast,37,"DD, MI, KKR",KKR,Capped,200,7.25 CR,Kolkata Knight Riders,Sold
+1,M,Shikhar Dhawan,India,DDCA,36,BATSMAN,LHB,-,192,"DCH, MI, SRH, DC",DC,Capped,200,8.25 CR,Punjab Kings,Sold
+1,M,Shreyas Iyer,India,MCA,27,BATSMAN,RHB,RIGHT ARM Leg Spin,87,DC,DC,Capped,200,12.25 CR,Kolkata Knight Riders,Sold
+1,M,Kagiso Rabada,South Africa,,26,BOWLER,LHB,RIGHT ARM Fast,50,DC,DC,Capped,200,9.25 CR,Punjab Kings,Sold
+1,M,Mohammad Shami,India,CAB,32,BOWLER,RHB,RIGHT ARM Fast,77,"DCH, KKR, DD, PBKS",PBKS,Capped,200,6.25 CR,Gujarat Titans,Sold
+1,M,R. Ashwin,India,TNCA,35,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,167,"CSK, RSP, KXIP, DC",DC,Capped,200,5 CR,Rajasthan Royals,Sold
+1,M,Quinton De Kock,South Africa,,29,WICKETKEEPER,LHB,-,77,"SRH, DD, RCB, MI",MI,Capped,200,6.75 CR,Lucknow Super Giants,Sold
+1,M,Faf Du Plessis,South Africa,,37,BATSMAN,RHB,RIGHT ARM Leg Spin,100,"RPS, CSK",CSK,Capped,200,7 CR,Royal Challengers Bangalore,Sold
+1,M,David Warner,Australia,,35,BATSMAN,LHB,-,150,"DD, SRH",SRH,Capped,200,6.25 CR,Delhi Capitals,Sold
+2,BA1,Shimron Hetmyer,West Indies,,25,BATSMAN,LHB,RIGHT ARM Leg Spin,31,"RCB, DC",DC,Capped,150,8.5 CR,Rajasthan Royals,Sold
+2,BA1,David Miller,South Africa,,32,BATSMAN,LHB,-,89,"KXIP, RR",RR,Capped,100,3 CR,Gujarat Titans,Sold
+2,BA1,Devdutt Padikkal,India,KSCA,21,BATSMAN,LHB,RIGHT ARM Off Spin,29,RCB,RCB,Capped,200,7.75 CR,Rajasthan Royals,Sold
+2,BA1,Manish Pandey,India,KSCA,32,BATSMAN,RHB,RIGHT ARM Off Spin,154,"MI, RCB, PWI, KKR, SRH",SRH,Capped,100,4.6 CR,Lucknow Super Giants,Sold
+2,BA1,Jason Roy,England,,31,BATSMAN,RHB,-,13,"GL, DC, SRH",SRH,Capped,200,2 CR,Gujarat Titans,Sold
+2,BA1,Robin Uthappa,India,KCA,36,BATSMAN,RHB,-,193,"MI, PWI, RCB, KKR, RR, CSK",CSK,Capped,200,2 CR,Chennai Super Kings,Sold
+3,AL1,Dwayne Bravo,West Indies,,38,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,151,"MI, GL, CSK",CSK,Capped,200,4.4 CR,Chennai Super Kings,Sold
+3,AL1,Wanindu Hasaranga,Sri Lanka,,24,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,2,RCB,RCB,Capped,100,10.75 CR,Royal Challengers Bangalore,Sold
+3,AL1,Jason Holder,West Indies,,30,ALL-ROUNDER,RHB,RIGHT ARM Fast,26,"CSK, KKR, SRH",SRH,Capped,150,8.75 CR,Lucknow Super Giants,Sold
+3,AL1,Mitchell Marsh,Australia,,30,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,21,"DCH, PWI, RPS, SRH",,Capped,200,6.50 CR,Delhi Capitals,Sold
+3,AL1,Krunal Pandya,India,BCA,31,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,84,MI,MI,Capped,200,8.25 CR,Lucknow Super Giants,Sold
+3,AL1,Harshal Patel,India,HCA,31,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,63,"DC, RCB",RCB,Capped,200,10.75 CR,Royal Challengers Bangalore,Sold
+3,AL1,Nitish Rana,India,DDCA,28,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,77,"MI, KKR",KKR,Capped,100,8 CR,Kolkata Knight Riders,Sold
+3,AL1,Washington Sundar,India,TNCA,22,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,42,RCB,RCB,Capped,150,8.75 CR,Sunrisers Hyderabad,Sold
+4,WK1,Jonny Bairstow,England,,32,WICKETKEEPER,RHB,-,28,SRH,SRH,Capped,150,6.75 CR,Punjab Kings,Sold
+4,WK1,Sam Billings,England,,30,WICKETKEEPER,RHB,-,22,"CSK, DC",DC,Capped,200,2 CR,Kolkata Knight Riders,Sold
+4,WK1,Dinesh Karthik,India,TNCA,36,WICKETKEEPER,RHB,-,213,"KXIP, MI, DD, RCB, GL, KKR",KKR,Capped,200,5.5 CR,Royal Challengers Bangalore,Sold
+4,WK1,Ishan Kishan,India,JSCA,23,WICKETKEEPER,LHB,-,61,"GL , MI",MI,Capped,200,15.25 CR,Mumbai Indians,Sold
+4,WK1,Nicholas Pooran,West Indies,,26,WICKETKEEPER,LHB,-,33,"MI, PBKS",PBKS,Capped,150,10.75 CR,Sunrisers Hyderabad,Sold
+4,WK1,Ambati Rayudu,India,ACA,36,WICKETKEEPER,RHB,-,175,"MI, CSK",CSK,Capped,200,6.75 CR,Chennai Super Kings,Sold
+4,WK1,Wriddhiman Saha,India,CAB,37,WICKETKEEPER,RHB,-,133,"KKR, CSK, KXIP, SRH",SRH,Capped,100,1.90 CR,Gujarat Titans,Sold
+4,WK1,Matthew Wade,Australia,,34,WICKETKEEPER,LHB,-,3,DD,,Capped,200,2.40 CR,Gujarat Titans,Sold
+5,FA1,T. Natarajan,India,TNCA,30,BOWLER,LHB,LEFT ARM Fast,24,"KXIP, SRH",SRH,Capped,100,4 CR,Sunrisers Hyderabad,Sold
+5,FA1,Deepak Chahar,India,RCA,29,BOWLER,RHB,RIGHT ARM Fast Medium,63,"RPS, CSK",CSK,Capped,200,14 CR,Chennai Super Kings,Sold
+5,FA1,Lockie Ferguson,New Zealand,,30,BOWLER,RHB,RIGHT ARM Fast,22,"RPS, KKR",KKR,Capped,200,10 CR,Gujarat Titans,Sold
+5,FA1,Josh Hazlewood,Australia,,31,BOWLER,LHB,RIGHT ARM Fast,12,CSK,CSK,Capped,200,7.75 CR,Royal Challengers Bangalore,Sold
+5,FA1,Prasidh Krishna,India,KSCA,26,BOWLER,RHB,RIGHT ARM Fast,34,KKR,KKR,Capped,100,10 CR,Rajasthan Royals,Sold
+5,FA1,Bhuvneshwar Kumar,India,UPCA,32,BOWLER,RHB,RIGHT ARM Fast Medium,132,"PWI, SRH",SRH,Capped,200,4.2 CR,Sunrisers Hyderabad,Sold
+5,FA1,Mustafizur Rahman,Bangladesh,,26,BOWLER,LHB,LEFT ARM Fast Medium,38,"SRH, MI, RR",RR,Capped,200,2 CR,Delhi Capitals,Sold
+5,FA1,Shardul Thakur,India,MCA,30,BOWLER,RHB,RIGHT ARM Fast Medium,61,"KXIP, RPS, CSK",CSK,Capped,200,10.75 CR,Delhi Capitals,Sold
+5,FA1,Mark Wood,England,,32,BOWLER,RHB,RIGHT ARM Fast,1,CSK,,Capped,200,7.5 CR,Lucknow Super Giants,Sold
+5,FA1,Umesh Yadav,India,VCA,34,BOWLER,RHB,RIGHT ARM Fast,121,"DD, KKR,RCB,DC",DC,Capped,200,2 CR,Kolkata Knight Riders,Sold
+6,SP1,Yuzvendra Chahal,India,HCA,31,BOWLER,RHB,RIGHT ARM Leg Spin,114,"MI,RCB",RCB,Capped,200,6.5 CR,Rajasthan Royals,Sold
+6,SP1,Rahul Chahar,India,RCA,22,BOWLER,RHB,RIGHT ARM Leg Spin,42,"RPS, MI",MI,Capped,75,5.25 CR,Punjab Kings,Sold
+6,SP1,Kuldeep Yadav,India,UPCA,27,BOWLER,LHB,LEFT ARM Slow Unorthodox,45,KKR,KKR,Capped,100,2 CR,Delhi Capitals,Sold
+7,UBA1,Dewald Brevis,South Africa,,18,BATSMAN,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,3 CR,Mumbai Indians,Sold
+7,UBA1,Priyam Garg,India,UPCA,21,BATSMAN,RHB,RIGHT ARM Off Spin,19,SRH,SRH,Uncapped,20,20 L,Sunrisers Hyderabad,Sold
+7,UBA1,Ashwin Hebbar,India,ACA,26,BATSMAN,RHB,RIGHT ARM Medium,,,,Uncapped,20,20 L,Delhi Capitals,Sold
+7,UBA1,Abhinav Sadarangani,India,KSCA,27,BATSMAN,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,2.6 CR,Gujarat Titans,Sold
+7,UBA1,Anmolpreet Singh,India,PCA,24,BATSMAN,RHB,RIGHT ARM Off Spin,1,MI,MI,Uncapped,20,20 L,Mumbai Indians,Sold
+7,UBA1,Rahul Tripathi,India,MACA,31,BATSMAN,RHB,RIGHT ARM Medium,62,"RPS, RR, KKR",KKR,Uncapped,40,8.5 CR,Sunrisers Hyderabad,Sold
+8,UAL1,Shahbaz Ahamad,India,CAB,27,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,13,RCB,RCB,Uncapped,30,2.4 CR,Royal Challengers Bangalore,Sold
+8,UAL1,Harpreet Brar,India,PCA,26,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,10,PBKS,PBKS,Uncapped,20,3.8 CR,Punjab Kings,Sold
+8,UAL1,Deepak Hooda,India,RCA,26,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,80,"RR, SRH, PBKS",PBKS,Uncapped,40,5.75 CR,Lucknow Super Giants,Sold
+8,UAL1,Sarfaraz Khan,India,MCA,24,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,40,"RCB,PBKS",PBKS,Uncapped,20,20 L,Delhi Capitals,Sold
+8,UAL1,Shahrukh Khan,India,TNCA,26,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,11,PBKS,PBKS,Uncapped,40,9 CR,Punjab Kings,Sold
+8,UAL1,Shivam Mavi,India,UPCA,23,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,26,KKR,KKR,Uncapped,40,7.25 CR,Kolkata Knight Riders,Sold
+8,UAL1,Kamlesh Nagarkoti,India,RCA,22,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,11,KKR,KKR,Uncapped,40,1.1 CR,Delhi Capitals,Sold
+8,UAL1,Riyan Parag,India,ASCA,20,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,30,RR,RR,Uncapped,30,3.8 CR,Rajasthan Royals,Sold
+8,UAL1,Abhishek Sharma,India,PCA,21,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,22,SRH,SRH,Uncapped,20,6.5 CR,Sunrisers Hyderabad,Sold
+8,UAL1,Rahul Tewatia,India,HCA,28,ALL-ROUNDER,LHB,RIGHT ARM Leg Spin,48,"KXIP,DC, RR",RR,Uncapped,40,9 CR,Gujarat Titans,Sold
+9,UWK1,Sheldon Jackson,India,SCA,35,WICKETKEEPER,RHB,-,4,KKR,KKR,Uncapped,30,60 L,Kolkata Knight Riders,Sold
+9,UWK1,Anuj Rawat,India,DDCA,22,WICKETKEEPER,LHB,-,2,RR,RR,Uncapped,20,3.4 CR,Royal Challengers Bangalore,Sold
+9,UWK1,Jitesh Sharma,India,VCA,28,WICKETKEEPER,RHB,-,0,MI,,Uncapped,20,20 L,Punjab Kings,Sold
+9,UWK1,Prabhsimran Singh,India,PCA,21,WICKETKEEPER,RHB,-,5,PBKS,PBKS,Uncapped,20,60 L,Punjab Kings,Sold
+9,UWK1,Vishnu Vinod,India,KCA,28,WICKETKEEPER,RHB,-,3,"RCB, DC",DC,Uncapped,20,50 L,Sunrisers Hyderabad,Sold
+10,UFA1,Akash Deep,India,CAB,25,BOWLER,RHB,RIGHT ARM Fast Medium,0,RCB,RCB,Uncapped,20,20 L,Royal Challengers Bangalore,Sold
+10,UFA1,Tushar Deshpande,India,MCA,26,BOWLER,LHB,RIGHT ARM Fast,5,DC,,Uncapped,20,20 L,Chennai Super Kings,Sold
+10,UFA1,Avesh Khan,India,MPCA,25,BOWLER,RHB,RIGHT ARM Fast,25,DC,DC,Uncapped,20,10 CR,Lucknow Super Giants,Sold
+10,UFA1,Ishan Porel,India,CAB,23,BOWLER,RHB,RIGHT ARM Fast Medium,1,PBKS,PBKS,Uncapped,20,25 L,Punjab Kings,Sold
+10,UFA1,Basil Thampi,India,KCA,28,BOWLER,RHB,RIGHT ARM Fast Medium,20,"GL, SRH",SRH,Uncapped,30,30 L,Mumbai Indians,Sold
+10,UFA1,Kartik Tyagi,India,UPCA,21,BOWLER,RHB,RIGHT ARM Fast Medium,14,RR,RR,Uncapped,20,4 CR,Sunrisers Hyderabad,Sold
+11,USP1,Noor Ahmad,Afghanistan,,17,BOWLER,RHB,LEFT ARM Slow Unorthodox,,,,Uncapped,30,30 L,Gujarat Titans,Sold
+11,USP1,Murugan Ashwin,India,TNCA,31,BOWLER,RHB,RIGHT ARM Leg Spin,34,"RPS, DD, RCB, PBKS",PBKS,Uncapped,20,1.6 CR,Mumbai Indians,Sold
+11,USP1,Shreyas Gopal,India,KSCA,28,BOWLER,RHB,RIGHT ARM Leg Spin,48,"MI, RR",RR,Uncapped,20,75 L,Sunrisers Hyderabad,Sold
+11,USP1,Jagadeesha Suchith,India,KSCA,28,BOWLER,LHB,LEFT ARM Slow Orthodox,17,"MI, DC, KXIP, SRH",SRH,Uncapped,20,20 L,Sunrisers Hyderabad,Sold
+12,BA2,Aiden Markram,South Africa,,27,BATSMAN,RHB,RIGHT ARM Off Spin,6,PBKS,PBKS,Capped,100,2.60 CR,Sunrisers Hyderabad,Sold
+12,BA2,Ajinkya Rahane,India,MCA,33,BATSMAN,RHB,-,151,"MI, RPS, RR, DC",DC,Capped,100,1 CR,Kolkata Knight Riders,Sold
+12,BA2,Mandeep Singh,India,PCA,30,BATSMAN,RHB,RIGHT ARM Medium,105,"RCB, PBKS",PBKS,Capped,50,1.10 CR,Delhi Capitals,Sold
+13,AL2,Dominic Drakes,West Indies,,24,ALL-ROUNDER,LHB,LEFT ARM Fast,0,CSK,CSK,Capped,75,1.10 CR,Gujarat Titans,Sold
+13,AL2,Shivam Dube,India,MCA,28,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,24,"RCB, RR",RR,Capped,50,4 CR,Chennai Super Kings,Sold
+13,AL2,K. Gowtham,India,KSCA,33,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,24,"MI, RR, KXIP, CSK",CSK,Capped,50,90 L,Lucknow Super Giants,Sold
+13,AL2,Marco Jansen,South Africa,,21,ALL-ROUNDER,RHB,LEFT ARM Fast,2,MI,MI,Capped,50,4.20 CR,Sunrisers Hyderabad,Sold
+13,AL2,Chris Jordan,England,,33,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,24,"RCB, SRH, PBKS",PBKS,Capped,200,3.60 CR,Chennai Super Kings,Sold
+13,AL2,Liam Livingstone,England,,28,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,9,RR,RR,Capped,100,11.50 CR,Punjab Kings,Sold
+13,AL2,James Neesham,New Zealand,,31,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,12,"DD, KXIP, MI",MI,Capped,150,1.50 CR,Rajasthan Royals,Sold
+13,AL2,Vijay Shankar,India,TNCA,31,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,47,"CSK, DD, SRH",SRH,Capped,50,1.40 CR,Gujarat Titans,Sold
+13,AL2,Odean Smith,West Indies,,25,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,Capped,100,6 CR,Punjab Kings,Sold
+13,AL2,Jayant Yadav,India,HCA,32,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,19,"DD, MI",MI,Capped,100,1.70 CR,Gujarat Titans,Sold
+14,FA2,Dushmanta Chameera,Sri Lanka,,30,BOWLER,RHB,RIGHT ARM Fast,0,RR,,Capped,50,2 CR,Lucknow Super Giants,Sold
+14,FA2,Nathan Coulter-Nile,Australia,,34,BOWLER,RHB,RIGHT ARM Fast Medium,38,"DD, KKR, RCB, MI",MI,Capped,200,2 CR,Rajasthan Royals,Sold
+14,FA2,Navdeep Saini,India,DDCA,29,BOWLER,RHB,RIGHT ARM Fast,28,"DD, RCB",RCB,Capped,75,2.60 CR,Rajasthan Royals,Sold
+14,FA2,Chetan Sakariya,India,SCA,24,BOWLER,LHB,LEFT ARM Fast Medium,14,RR,RR,Capped,50,4.20 CR,Delhi Capitals,Sold
+14,FA2,Sandeep Sharma,India,UTCA,28,BOWLER,RHB,RIGHT ARM Fast Medium,99,"KXIP, SRH",SRH,Capped,50,50 L,Punjab Kings,Sold
+14,FA2,Jaydev Unadkat,India,SCA,30,BOWLER,RHB,LEFT ARM Fast Medium,86,"KKR,RCB, DD, RPS, RR",RR,Capped,75,1.30 CR,Mumbai Indians,Sold
+15,SP2,Mayank Markande,India,PCA,24,BOWLER,RHB,RIGHT ARM Leg Spin,18,"MI, RR",RR,Capped,50,65 L,Mumbai Indians,Sold
+15,SP2,Shahbaz Nadeem,India,JSCA,32,BOWLER,RHB,LEFT ARM Slow Orthodox,72,"DD, SRH",SRH,Capped,50,50 L,Lucknow Super Giants,Sold
+15,SP2,Karn Sharma,India,RSPB,34,BOWLER,LHB,RIGHT ARM Leg Spin,68,"RCB, SRH, MI, CSK",CSK,Capped,50,50 L,Royal Challengers Bangalore,Sold
+15,SP2,Maheesh Theekshana,Sri Lanka,,21,BOWLER,RHB,RIGHT ARM Off Spin,,,,Capped,50,70 L,Chennai Super Kings,Sold
+16,UBA2,Rinku Singh,India,UPCA,24,BATSMAN,LHB,RIGHT ARM Off Spin,11,KKR,,Uncapped,20,55 L,Kolkata Knight Riders,Sold
+16,UBA2,Manan Vohra,India,UTCA,28,BATSMAN,RHB,-,53,"KXIP, RCB, RR",RR,Uncapped,20,20 L,Lucknow Super Giants,Sold
+17,UAL2,Yash Dhull,India,DDCA,19,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,50 L,Delhi Capitals,Sold
+17,UAL2,Rajvardhan Hangargekar,India,MACA,19,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,Uncapped,30,1.50 CR,Chennai Super Kings,Sold
+17,UAL2,Mahipal Lomror,India,RCA,22,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,11,RR,RR,Uncapped,40,95 L,Royal Challengers Bangalore,Sold
+17,UAL2,Darshan Nalkande,India,VCA,23,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,PBKS,PBKS,Uncapped,20,20 L,Gujarat Titans,Sold
+17,UAL2,Vicky Ostwal,India,MACA,19,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,20 L,Delhi Capitals,Sold
+17,UAL2,Ripal Patel,India,GUCA,26,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,2,DC,DC,Uncapped,20,20 L,Delhi Capitals,Sold
+17,UAL2,Anukul Roy,India,JSCA,23,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,1,MI,MI,Uncapped,20,20 L,Kolkata Knight Riders,Sold
+17,UAL2,Lalit Yadav,India,DDCA,25,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,7,DC,DC,Uncapped,20,65 L,Delhi Capitals,Sold
+17,UAL2,Sanjay Yadav,India,TNCA,26,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,"KKR, SRH",,Uncapped,20,50 L,Mumbai Indians,Sold
+18,UFA2,Yash Dayal,India,UPCA,24,BOWLER,RHB,LEFT ARM Fast,,,,Uncapped,20,3.20 CR,Gujarat Titans,Sold
+18,UFA2,Kuldeep Sen,India,MPCA,25,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,20 L,Rajasthan Royals,Sold
+18,UFA2,Simarjeet Singh,India,DDCA,24,BOWLER,RHB,RIGHT ARM Fast,0,MI,MI,Uncapped,20,20 L,Chennai Super Kings,Sold
+19,BA3,Finn Allen,New Zealand,,22,BATSMAN,RHB,RIGHT ARM Off Spin,0,RCB,RCB,Capped,50,80 L,Royal Challengers Bangalore,Sold
+19,BA3,Devon Conway,New Zealand,,30,BATSMAN,LHB,RIGHT ARM Medium,,,,Capped,100,1 CR,Chennai Super Kings,Sold
+19,BA3,Alex Hales,England,,33,BATSMAN,RHB,-,6,"MI, SRH",,Capped,150,1.50 CR,Kolkata Knight Riders,Sold
+19,BA3,Evin Lewis,West Indies,,30,BATSMAN,LHB,-,21,"MI, RR",RR,Capped,200,2 CR,Lucknow Super Giants,Sold
+19,BA3,Karun Nair,India,KSCA,30,BATSMAN,RHB,RIGHT ARM Off Spin,73,"RCB, RR, DD, KXIP, KKR",KKR,Capped,50,1.40 CR,Rajasthan Royals,Sold
+19,BA3,Rovman Powell,West Indies,,28,BATSMAN,RHB,RIGHT ARM Fast Medium,0,KKR,,Capped,75,2.80 CR,Delhi Capitals,Sold
+20,AL3,Jofra Archer,England,,27,ALL-ROUNDER,RHB,RIGHT ARM Fast,35,RR,RR,Capped,200,8 CR,Mumbai Indians,Sold
+20,AL3,Rishi Dhawan,India,HPCA,32,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,26,"MI, KXIP, KKR",,Capped,50,55 L,Punjab Kings,Sold
+20,AL3,Daryl Mitchell,New Zealand,,30,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,Capped,75,75 L,Rajasthan Royals,Sold
+20,AL3,Dwaine Pretorius,South Africa,,33,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Capped,50,50 L,Chennai Super Kings,Sold
+20,AL3,Sherfane Rutherford,West Indies,,23,ALL-ROUNDER,LHB,RIGHT ARM Medium,7,"DC, MI",,Capped,100,1 CR,Royal Challengers Bangalore,Sold
+20,AL3,Daniel Sams,Australia,,29,ALL-ROUNDER,RHB,LEFT ARM Fast Medium,5,"DC, RCB",RCB,Capped,100,2.60 CR,Mumbai Indians,Sold
+20,AL3,Mitchell Santner,New Zealand,,30,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,6,CSK,CSK,Capped,100,1.90 CR,Chennai Super Kings,Sold
+20,AL3,Romario Shepherd,West Indies,,27,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Capped,75,7.75 CR,Sunrisers Hyderabad,Sold
+21,WK2,Glenn Phillips,New Zealand,,25,WICKETKEEPER,RHB,RIGHT ARM Off Spin,3,,RR,Capped,150,1.50 CR,Sunrisers Hyderabad,Sold
+21,WK2,Tim Seifert,New Zealand,,27,WICKETKEEPER,RHB,-,1,KKR,KKR,Capped,50,50 L,Delhi Capitals,Sold
+22,FA3,Jason Behrendorff,Australia,,31,BOWLER,RHB,LEFT ARM Fast Medium,5,"MI, CSK",CSK,Capped,75,75 L,Royal Challengers Bangalore,Sold
+22,FA3,Nathan Ellis,Australia,,27,BOWLER,RHB,RIGHT ARM Fast Medium,3,PBKS,PBKS,Capped,75,75 L,Punjab Kings,Sold
+22,FA3,Fazalhaq Farooqi,Afghanistan,,21,BOWLER,RHB,LEFT ARM Fast Medium,,,,Capped,50,50 L,Sunrisers Hyderabad,Sold
+22,FA3,Siddharth Kaul,India,PCA,31,BOWLER,RHB,RIGHT ARM Fast Medium,54,"KKR, DD, SRH",SRH,Capped,75,75 L,Royal Challengers Bangalore,Sold
+22,FA3,Obed Mccoy,West Indies,,25,BOWLER,LHB,LEFT ARM Fast,,,,Capped,75,75 L,Rajasthan Royals,Sold
+22,FA3,Tymal Mills,England,,29,BOWLER,RHB,LEFT ARM Fast,5,RCB,,Capped,100,1.50 CR,Mumbai Indians,Sold
+22,FA3,Adam Milne,New Zealand,,29,BOWLER,RHB,RIGHT ARM Fast,9,"RCB, MI",MI,Capped,150,1.90 L,Chennai Super Kings,Sold
+24,UBA3,Subhranshu Senapati,India,OCA,25,BATSMAN,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,20 L,Chennai Super Kings,Sold
+25,UAL3,Tim David,Australia,,26,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,1,RCB,RCB,Uncapped,40,8.25 CR,Mumbai Indians,Sold
+25,UAL3,Pravin Dubey,India,KSCA,28,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,3,"RCB, DC",DC,Uncapped,20,50 L,Delhi Capitals,Sold
+25,UAL3,Prerak Mankad,India,SCA,27,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,Uncapped,20,20 L,Punjab Kings,Sold
+25,UAL3,Suyash Prabhudessai,India,GCA,24,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,RCB,RCB,Uncapped,20,30 L,Royal Challengers Bangalore,Sold
+25,UAL3,Ramandeep Singh,India,PCA,24,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,Uncapped,20,20 L,Mumbai Indians,Sold
+26,UWK2,Dhruv Jurel,India,UPCA,21,WICKETKEEPER,RHB,-,,,,Uncapped,20,20 L,Rajasthan Royals,Sold
+26,UWK2,Aryan Juyal,India,UPCA,20,WICKETKEEPER,RHB,-,,,,Uncapped,20,20 L,Mumbai Indians,Sold
+26,UWK2,Luvnith Sisodia,India,KSCA,22,WICKETKEEPER,LHB,RIGHT ARM Off Spin,,,,Uncapped,20,20 L,Royal Challengers Bangalore,Sold
+27,UFA3,Vaibhav Arora,India,HPCA,24,BOWLER,RHB,RIGHT ARM Fast Medium,0,KKR,KKR,Uncapped,20,2 CR,Punjab Kings,Sold
+27,UFA3,Mukesh Choudhary,India,MACA,25,BOWLER,LHB,LEFT ARM Fast,,,,Uncapped,20,20 L,Chennai Super Kings,Sold
+27,UFA3,Rasikh Dar,India,JKCA,22,BOWLER,RHB,RIGHT ARM Fast Medium,1,MI,,Uncapped,20,20 L,Kolkata Knight Riders,Sold
+27,UFA3,Mohsin Khan,India,UPCA,23,BOWLER,LHB,LEFT ARM Fast Medium,0,MI,MI,Uncapped,20,20 L,Luknow Super Giants,Sold
+27,UFA3,Chama Milind,India,HYCA,27,BOWLER,LHB,LEFT ARM Fast,0,"SRH, DD",,Uncapped,20,25 L,Royal Challengers Bangalore,Sold
+27,UFA3,Mayank Yadav,India,DDCA,19,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,20 L,Lucknow Super Giants,Sold
+28,USP2,Tejas Baroka,India,DDCA,26,BOWLER,RHB,RIGHT ARM Leg Spin,1,GL,,Uncapped,20,20 L,Rajasthan Royals,Sold
+28,USP2,Prashant Solanki,India,MCA,22,BOWLER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,1.20 CR,Chennai Super Kings,Sold
+30,AL4,Fabian Allen,West Indies,,26,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,4,,,Capped,75,75 L,Mumbai Indians,Sold
+30,AL4,Gurkeerat Singh,India,PCA,31,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,41,,KKR,Capped,50,50 L,Gujarat Titan,Sold
+31,FA4,Sean Abbott,Australia,,30,BOWLER,RHB,RIGHT ARM Fast,2,RCB,,Capped,75,2.40 CR,Sunrisers Hyderabad,Sold
+31,FA4,Alzarri Joseph,West Indies,,25,BOWLER,RHB,RIGHT ARM Fast,3,MI,,Capped,75,2.40 CR,Gujarat Titans,Sold
+31,FA4,Riley Meredith,Australia,,25,BOWLER,RHB,RIGHT ARM Fast,5,PBKS,PBKS,Capped,100,1 CR,Mumbai Indians,Sold
+31,FA4,Tim Southee,New Zealand,,33,BOWLER,RHB,RIGHT ARM Fast,43,"CSK, RR, MI, RCB, KKR",KKR,Capped,150,1.50 CR,Kolkata Knight Riders,Sold
+32,UBA4,Rahul Buddhi,India,HYCA,24,BATSMAN,LHB,RIGHT ARM Leg Spin,,,,Uncapped,20,20 L,Mumbai Indians,Sold
+33,UAL4,Ayush Badoni,India,DDCA,22,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,20 L,Lucknow Super Giants,Sold
+33,UAL4,Aneeshwar Gautam,India,KSCA,19,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,20 L,Royal Challengers Bangalore,Sold
+33,UAL4,Benny Howell,England,,33,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,Uncapped,40,40 L,Punjab Kings,Sold
+34,UWK3,Baba Indrajith,India,TNCA,27,WICKETKEEPER,RHB,-,,,,Uncapped,20,20 L,Kolkata Knight Riders,Sold
+35,UFA4,Kuldip Yadav,India,DDCA,25,BOWLER,LHB,LEFT ARM Fast,1,,RR,Uncapped,20,20 L,Rajasthan Royals,Sold
+38,AL5,Chamika Karunaratne,Sri Lanka,,25,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Capped,50,50 L,Kolkata Knight Riders,Sold
+38,AL5,David Willey,England,,32,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,3,CSK,,Capped,200,2 CR,Royal Challengers Bangalore,Sold
+39,FA5,Varun Aaron,India,JSCA,32,BOWLER,RHB,RIGHT ARM Fast,50,"DD, RCB,KXIP, RR",,Capped,50,50 L,Gujarat Titans,Sold
+40,UBA5,R Samarth,India,KSCA,29,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,20 L,Sunrisers Hyderabad,Sold
+40,UBA5,Abhijeet Tomar,India,RCA,27,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,40 L,Kolkata Knight Riders,Sold
+41,UAL5,Aman Khan,India,MCA,25,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,20 L,Kolkata Knight Riders,Sold
+41,UAL5,Pradeep Sangwan,India,DDCA,31,ALL-ROUNDER,RHB,LEFT ARM Fast,39,"DD, GL, MI",,Uncapped,20,20 L,Gujarat Titans,Sold
+47,UBA6,Ramesh Kumar,India,PCA,23,BATSMAN,LHB,-,,,,Uncapped,20,20 L,Kolkata Knight Riders,Sold
+47,UBA6,Pratham Singh,India,RSPB,29,BATSMAN,LHB,RIGHT ARM Off Spin,0,GL,,Uncapped,20,20 L,Kolkata Knight Riders,Sold
+48,UAL6,Writtick Chatterjee,India,CAB,29,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,20 L,Punjab Kings,Sold
+48,UAL6,Hrithik Shokeen,India,DDCA,21,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,20 L,Mumbai Indians,Sold
+48,UAL6,Shashank Singh,India,CSCSCA,30,ALL-ROUNDER,RHB,RIGHT ARM Medium,0,"DD, RR",,Uncapped,20,20 L,Sunrisers Hyderabad,Sold
+50,AL7,Kyle Mayers,West Indies,,29,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,,,,Capped,50,50 L,Lucknow Super Giants,Sold
+51,UAL7,Karan Sharma,India,UPCA,23,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,20 L,Lucknow Super Giants,Sold
+52,UFA7,Baltej Dhanda,India,PCA,31,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,20 L,Punjab Kings,Sold
+52,UFA7,Saurabh Dubey,India,VCA,24,BOWLER,RHB,LEFT ARM Fast Medium,,,,Uncapped,20,20 L,Sunrisers Hyderabad,Sold
+53,UAL8,Ansh Patel,India,BCA,20,ALL-ROUNDER,RHB,LEFT ARM Slow Unorthodox,,,,Uncapped,20,20 L,Punjab Kings,Sold
+54,UFA8,Ashok Sharma,India,RCA,19,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,55 L,Kolkata Knight Riders,Sold
+57,UAL10,Arjun Tendulkar,India,MCA,22,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,0,MI,MI,Uncapped,20,30 L,Mumbai Indians,Sold
+59,UAL12,Shubham Garhwal,India,RCA,26,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,20 L,Rajasthan Royals,Sold
+60,UAL13,Anunay Singh,India,BICA,29,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,20 L,Rajasthan Royals,Sold
+2,BA1,Suresh Raina,India,UPCA,35,BATSMAN,LHB,RIGHT ARM Off Spin,205,"CSK, GL",CSK,Capped,200,,,UnSold
+2,BA1,Steve Smith,Australia,,32,BATSMAN,RHB,-,103,"PWI, RPS, RR, DC",DC,Capped,200,,,UnSold
+3,AL1,Shakib Al Hasan,Bangladesh,,35,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,71,"SRH, KKR",KKR,Capped,200,,,UnSold
+3,AL1,Mohammad Nabi,Afghanistan,,37,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,17,SRH,SRH,Capped,100,1 CR,Kolkata Knight Riders,Sold
+6,SP1,Amit Mishra,India,HCA,39,BOWLER,RHB,RIGHT ARM Leg Spin,154,"DCH, SRH, DC",DC,Capped,150,,,UnSold
+6,SP1,Adil Rashid,England,,34,BOWLER,RHB,RIGHT ARM Leg Spin,1,,PBKS,Capped,200,,,UnSold
+6,SP1,Imran Tahir,South Africa,,43,BOWLER,RHB,RIGHT ARM Leg Spin,59,"DD, RPS, CSK",CSK,Capped,200,,,UnSold
+6,SP1,Mujeeb Zadran,Afghanistan,,21,BOWLER,RHB,RIGHT ARM Off Spin,19,"KXIP, SRH",SRH,Capped,200,,,UnSold
+6,SP1,Adam Zampa,Australia,,29,BOWLER,RHB,RIGHT ARM Leg Spin,14,"RPS, RCB",RCB,Capped,200,,,UnSold
+7,UBA1,C.Hari Nishaanth,India,TNCA,25,BATSMAN,LHB,RIGHT ARM Off Spin,0,CSK,CSK,Uncapped,20,20 L,Chennai Super Kings,Sold
+7,UBA1,Rajat Patidar,India,MPCA,28,BATSMAN,RHB,RIGHT ARM Off Spin,4,RCB,RCB,Uncapped,20,,,UnSold
+9,UWK1,Mohammed Azharuddeen,India,KCA,28,WICKETKEEPER,RHB,-,0,RCB,RCB,Uncapped,20,,,UnSold
+9,UWK1,K.S. Bharat,India,ACA,28,WICKETKEEPER,RHB,-,8,"DD, RCB",RCB,Uncapped,20,20 L,Delhi Capitals,Sold
+9,UWK1,N. Jagadeesan,India,TNCA,26,WICKETKEEPER,RHB,-,5,CSK,CSK,Uncapped,20,20 L,Chennai Super Kings,Sold
+9,UWK1,Vishnu Solanki,India,BCA,29,WICKETKEEPER,RHB,-,,,,Uncapped,20,,,UnSold
+10,UFA1,K.M. Asif,India,KCA,28,BOWLER,RHB,RIGHT ARM Fast,3,CSK,CSK,Uncapped,20,20 L,Chennai Super Kings,Sold
+10,UFA1,Ankit Singh Rajpoot,India,UPCA,28,BOWLER,RHB,RIGHT ARM Fast Medium,29,"CSK, KKR, RR, KXIP",,Uncapped,20,50 L,Lucknow Super Giants,Sold
+11,USP1,K.C Cariappa,India,KSCA,27,BOWLER,RHB,RIGHT ARM Leg Spin,11,"KKR, KXIP, RR",RR,Uncapped,20,30 L,Rajasthan Royals,Sold
+11,USP1,Sandeep Lamichhane,Nepal,,21,BOWLER,RHB,RIGHT ARM Leg Spin,9,DC,,Associate,40,,,UnSold
+11,USP1,R. Sai Kishore,India,TNCA,25,BOWLER,LHB,LEFT ARM Slow Orthodox,0,CSK,CSK,Uncapped,20,3 CR,Gujarat Titans,Sold
+11,USP1,M. Siddharth,India,TNCA,23,BOWLER,RHB,LEFT ARM Slow Orthodox,0,"KKR, DC",DC,Uncapped,20,,,UnSold
+12,BA2,Aaron Finch,Australia,,35,BATSMAN,RHB,LEFT ARM Slow Orthodox,87,"RR, DD, PWI, SRH, MI, GL, KXIP, RCB",,Capped,150,,,UnSold
+12,BA2,Marnus Labuschagne,Australia,,27,BATSMAN,RHB,RIGHT ARM Leg Spin,,,,Capped,100,,,UnSold
+12,BA2,Dawid Malan,England,,34,BATSMAN,LHB,RIGHT ARM Leg Spin,1,PBKS,PBKS,Capped,150,,,UnSold
+12,BA2,Eoin Morgan,England,,35,BATSMAN,LHB,RIGHT ARM Medium,83,"RCB, SRH,KXIP, KKR",KKR,Capped,150,,,UnSold
+12,BA2,Cheteshwar Pujara,India,SCA,34,BATSMAN,RHB,RIGHT ARM Leg Spin,30,"KKR, RCB, KXIP, CSK",CSK,Capped,50,,,UnSold
+12,BA2,Saurabh Tiwary,India,JSCA,32,BATSMAN,LHB,RIGHT ARM Off Spin,93,"RCB,DD,RPS,MI",MI,Capped,50,,,UnSold
+14,FA2,Syed Khaleel Ahmed,India,RCA,24,BOWLER,RHB,LEFT ARM Fast,24,"DD, SRH",SRH,Capped,50,5.25 CR,Delhi Capitals,Sold
+14,FA2,Sheldon Cottrell,West Indies,,32,BOWLER,RHB,LEFT ARM Fast Medium,6,KXIP,,Capped,75,,,UnSold
+14,FA2,Lungisani Ngidi,South Africa,,26,BOWLER,RHB,RIGHT ARM Fast,14,CSK,CSK,Capped,50,50 L,Delhi Capitals,Sold
+14,FA2,Ishant Sharma,India,DDCA,33,BOWLER,RHB,RIGHT ARM Fast,93,"KKR, DCH,SRH,RPS, KXIP, DC",DC,Capped,150,,,UnSold
+15,SP2,Qais Ahmad,Afghanistan,,21,BOWLER,RHB,RIGHT ARM Leg Spin,,,,Capped,50,,,UnSold
+15,SP2,Piyush Chawla,India,GUCA,33,BOWLER,LHB,RIGHT ARM Leg Spin,165,"KXIP, KKR, CSK, MI",MI,Capped,100,,,UnSold
+15,SP2,Tabraiz Shamsi,South Africa,,32,BOWLER,LHB,LEFT ARM Slow Unorthodox,5,"RCB, RR",RR,Capped,100,,,UnSold
+15,SP2,Ish Sodhi,New Zealand,,29,BOWLER,RHB,RIGHT ARM Leg Spin,8,RR,,Capped,50,,,UnSold
+16,UBA2,Sachin Baby,India,KCA,33,BATSMAN,LHB,RIGHT ARM Off Spin,19,"RR, SRH, RCB",RCB,Uncapped,20,,,UnSold
+16,UBA2,Ricky Bhui,India,ACA,25,BATSMAN,RHB,RIGHT ARM Off Spin,2,SRH,,Uncapped,20,,,UnSold
+16,UBA2,Himanshu Rana,India,HCA,23,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+16,UBA2,Harnoor Singh,India,UTCA,19,BATSMAN,LHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+16,UBA2,Himmat Singh,India,DDCA,25,BATSMAN,RHB,RIGHT ARM Off Spin,0,RCB,,Uncapped,20,,,UnSold
+16,UBA2,Virat Singh,India,JSCA,24,BATSMAN,LHB,RIGHT ARM Off Spin,3,SRH,SRH,Uncapped,20,,,UnSold
+17,UAL2,Raj Angad Bawa,India,UTCA,19,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,,,,Uncapped,20,2 CR,Punjab Kings,Sold
+17,UAL2,N. Tilak Varma,India,HYCA,19,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,,,Uncapped,20,1.7 CR,Mumbai Indians,Sold
+18,UFA2,Arzan Nagwaswalla,India,GUCA,24,BOWLER,RHB,LEFT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+18,UFA2,Akash Singh,India,RCA,19,BOWLER,RHB,LEFT ARM Fast,1,RR,RR,Uncapped,20,,,UnSold
+18,UFA2,Yash Thakur,India,VCA,23,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+18,UFA2,Vasu Vats,India,UPCA,19,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+18,UFA2,Mujtaba Yousuf,India,JKCA,19,BOWLER,LHB,LEFT ARM Fast,,,,Uncapped,20,,,UnSold
+19,BA3,Chris Lynn,Australia,,31,BATSMAN,RHB,LEFT ARM Slow Orthodox,42,"DCH, KKR, MI",MI,Capped,150,,,UnSold
+19,BA3,Rassie Van Der Dussen,South Africa,,33,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Capped,100,1 CR,Rajasthan Royals,Sold
+19,BA3,Najibullah Zadran,Afghanistan,,29,BATSMAN,LHB,RIGHT ARM Off Spin,,,,Capped,50,,,UnSold
+20,AL3,Charith Asalanka,Sri Lanka,,24,ALL-ROUNDER,LHB,RIGHT ARM Leg Spin,,,,Capped,50,,,UnSold
+20,AL3,George Garton,England,,24,ALL-ROUNDER,LHB,LEFT ARM Fast,5,RCB,RCB,Capped,50,,,UnSold
+21,WK2,Litton Das,Bangladesh,,27,WICKETKEEPER,RHB,-,,,,Capped,50,,,UnSold
+21,WK2,Niroshan Dickwella,Sri Lanka,,28,WICKETKEEPER,LHB,-,,,,Capped,50,,,UnSold
+21,WK2,Andre Fletcher,West Indies,,34,WICKETKEEPER,RHB,-,,,,Capped,50,,,UnSold
+21,WK2,Rahmanullah Gurbaz,Afghanistan,,20,WICKETKEEPER,RHB,-,,,,Capped,50,,,UnSold
+21,WK2,Shai Hope,West Indies,,28,WICKETKEEPER,RHB,-,,,,Capped,50,,,UnSold
+21,WK2,Heinrich Klaasen,South Africa,,30,WICKETKEEPER,RHB,-,7,"RR, RCB",,Capped,50,,,UnSold
+21,WK2,Ben Mcdermott,Australia,,27,WICKETKEEPER,RHB,-,,,,Capped,50,,,UnSold
+21,WK2,Kusal Mendis,Sri Lanka,,27,WICKETKEEPER,RHB,RIGHT ARM Leg Spin,,,,Capped,50,,,UnSold
+21,WK2,Kusal Perera,Sri Lanka,,31,WICKETKEEPER,LHB,-,2,RR,,Capped,50,,,UnSold
+21,WK2,Joshua Philippe,Australia,,24,WICKETKEEPER,RHB,-,5,RCB,,Capped,100,,,UnSold
+22,FA3,Reece Topley,England,,28,BOWLER,RHB,LEFT ARM Fast,,,,Capped,75,,,UnSold
+22,FA3,Andrew Tye,Australia,,35,BOWLER,RHB,RIGHT ARM Fast Medium,27,"GL, KXIP, RR",RR,Capped,100,,,UnSold
+22,FA3,Sandeep Warrier,India,TNCA,31,BOWLER,RHB,RIGHT ARM Fast,5,KKR,KKR,Capped,50,,,UnSold
+23,SP3,Todd Astle,New Zealand,,35,BOWLER,RHB,RIGHT ARM Leg Spin,,,,Capped,75,,,UnSold
+23,SP3,Akila Dhananjaya,Sri Lanka,,28,BOWLER,RHB,RIGHT ARM Off Spin,1,MI,,Capped,50,,,UnSold
+23,SP3,Zahir Khan,Afghanistan,,23,BOWLER,LHB,LEFT ARM Slow Unorthodox,0,RR,,Capped,50,,,UnSold
+23,SP3,Keshav Maharaj,South Africa,,32,BOWLER,RHB,LEFT ARM Slow Orthodox,,,,Capped,50,,,UnSold
+23,SP3,Waqar Salamkheil,Afghanistan,,20,BOWLER,RHB,LEFT ARM Slow Orthodox,,,,Capped,50,,,UnSold
+23,SP3,Rahul Sharma,India,PCA,35,BOWLER,RHB,RIGHT ARM Leg Spin,44,"DCH, PWI, DD, CSK",,Capped,50,,,UnSold
+23,SP3,Hayden Walsh,West Indies,,29,BOWLER,LHB,RIGHT ARM Leg Spin,,,,Capped,50,,,UnSold
+24,UBA3,Tanmay Agarwal,India,HYCA,26,BATSMAN,LHB,RIGHT ARM Leg Spin,0,SRH,,Uncapped,20,,,UnSold
+24,UBA3,Shivam Chauhan,India,HCA,24,BATSMAN,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+24,UBA3,Nikhil Gangta,India,HPCA,29,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+24,UBA3,Rohan Kadam,India,KSCA,27,BATSMAN,LHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+24,UBA3,Tom Kohler-Cadmore,England,,27,BATSMAN,RHB,-,,,,Uncapped,40,,,UnSold
+24,UBA3,Priyank Panchal,India,GUCA,32,BATSMAN,RHB,-,,,,Uncapped,20,,,UnSold
+24,UBA3,Sameer Rizvi,India,UPCA,18,BATSMAN,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+24,UBA3,Ritwik Roy Chowdhury,India,CAB,26,BATSMAN,RHB,-,,,,Uncapped,20,,,UnSold
+24,UBA3,Apoorv Wankhade,India,VCA,30,BATSMAN,RHB,RIGHT ARM Medium,0,"MI, KKR",,Uncapped,20,,,UnSold
+25,UAL3,Atharva Ankolekar,India,MCA,21,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+25,UAL3,B. Sai Sudharsan,India,TNCA,20,ALL-ROUNDER,LHB,RIGHT ARM Leg Spin,,,,Uncapped,20,20 L,Gujarat Titans,Sold
+25,UAL3,Atharva Taide,India,VCA,21,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,20 L,Punjab Kings,Sold
+25,UAL3,Tanay Thyagarajan,India,HYCA,26,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+26,UWK2,Ankush Bains,India,HPCA,26,WICKETKEEPER,RHB,-,0,"RPS, DC",,Uncapped,20,,,UnSold
+26,UWK2,Prashant Chopra,India,HPCA,29,WICKETKEEPER,RHB,RIGHT ARM Leg Spin,2,RR,,Uncapped,20,,,UnSold
+26,UWK2,Kedar Devdhar,India,BCA,32,WICKETKEEPER,RHB,-,1,DCH,,Uncapped,20,,,UnSold
+26,UWK2,Shreevats Goswami,India,CAB,32,WICKETKEEPER,LHB,-,31,"RCB, KKR, RR, SRH",SRH,Uncapped,20,,,UnSold
+26,UWK2,Akshdeep Nath,India,UPCA,28,WICKETKEEPER,RHB,-,14,"GL, KXIP, RCB",,Uncapped,20,,,UnSold
+26,UWK2,Aditya Tare,India,MCA,34,WICKETKEEPER,RHB,-,35,"SRH,DD, MI",MI,Uncapped,20,,,UnSold
+26,UWK2,Upendra Singh Yadav,India,RSPB,25,WICKETKEEPER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+27,UFA3,Ben Dwarshuis,Australia,,27,BOWLER,LHB,LEFT ARM Fast,0,"KXIP, DC",,Uncapped,30,,,UnSold
+27,UFA3,Pankaj Jaswal,India,HPCA,26,BOWLER,RHB,RIGHT ARM Fast Medium,0,MI,,Uncapped,20,,,UnSold
+27,UFA3,Lukman Hussain Meriwala,India,BCA,30,BOWLER,LHB,LEFT ARM Fast Medium,1,DC,DC,Uncapped,20,,,UnSold
+27,UFA3,Vyshak Vijay Kumar,India,KSCA,25,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+28,USP2,Zeeshan Ansari,India,UPCA,22,BOWLER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+28,USP2,Yuvraj Chudasama,India,SCA,26,BOWLER,LHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+28,USP2,Dharmendrasinh Jadeja,India,SCA,31,BOWLER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+28,USP2,Khrievitso Kense,India,NCA,18,BOWLER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+28,USP2,Prince Balwant Rai,India,PCA,22,BOWLER,RHB,RIGHT ARM Leg Spin,0,MI,,Uncapped,20,,,UnSold
+28,USP2,Pardeep Sahu,India,MCA,36,BOWLER,RHB,RIGHT ARM Leg Spin,5,"RR, KXIP",,Uncapped,20,,,UnSold
+28,USP2,Jalaj Saxena,India,KCA,35,BOWLER,RHB,RIGHT ARM Off Spin,1,"MI, RCB, DC,PBKS",PBKS,Uncapped,30,,,UnSold
+28,USP2,Midhun Sudhesan,India,KCA,27,BOWLER,RHB,RIGHT ARM Leg Spin,1,RR,,Uncapped,20,,,UnSold
+29,BA4,Martin Guptill,New Zealand,,35,BATSMAN,RHB,-,13,"MI,KXIP,SRH",,Capped,75,,,UnSold
+29,BA4,Usman Khawaja,Australia,,35,BATSMAN,LHB,RIGHT ARM Off Spin,6,RPS,,Capped,150,,,UnSold
+29,BA4,Brandon King,West Indies,,27,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Capped,50,,,UnSold
+29,BA4,Janneman Malan,South Africa,,25,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Capped,50,,,UnSold
+29,BA4,Bhanuka Rajapaksa,Sri Lanka,,30,BATSMAN,LHB,-,,,,Capped,50,50 L,Punjab Kings,Sold
+29,BA4,Rilee Rossouw,South Africa,,32,BATSMAN,LHB,RIGHT ARM Off Spin,5,RCB,,Capped,100,,,UnSold
+29,BA4,Paul Stirling,Ireland,,31,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Capped,50,,,UnSold
+29,BA4,Hanuma Vihari,India,HYCA,28,BATSMAN,RHB,RIGHT ARM Off Spin,24,"SRH, DC",,Capped,50,,,UnSold
+29,BA4,James Vince,England,,31,BATSMAN,RHB,-,,,,Capped,200,,,UnSold
+29,BA4,Hazratullah Zazai,Afghanistan,,24,BATSMAN,LHB,-,,,,Capped,50,,,UnSold
+30,AL4,Roston Chase,West Indies,,30,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Capped,100,,,UnSold
+30,AL4,Ben Cutting,Australia,,35,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,21,"RR, SRH, MI, KKR",KKR,Capped,75,,,UnSold
+30,AL4,Lewis Gregory,England,,29,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Capped,150,,,UnSold
+30,AL4,Moises Henriques,Australia,,35,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,62,"KKR, DD, RCB, SRH, PBKS",PBKS,Capped,100,,,UnSold
+30,AL4,Akeal Hosein,West Indies,,28,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Capped,50,,,UnSold
+30,AL4,Karim Janat,Afghanistan,,23,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Capped,50,,,UnSold
+30,AL4,Scott Kuggeleijn,New Zealand,,30,ALL-ROUNDER,RHB,RIGHT ARM Fast,2,"CSK, RCB",RCB,Capped,75,,,UnSold
+30,AL4,Pawan Negi,India,DDCA,29,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,50,"CSK, DD, RCB, KKR",KKR,Capped,50,,,UnSold
+31,FA4,Taskin Ahmed,Bangladesh,,27,BOWLER,LHB,RIGHT ARM Fast,,,,Capped,50,,,UnSold
+31,FA4,Marchant De Lange,South Africa,,31,BOWLER,RHB,RIGHT ARM Fast,5,"KKR, MI",,Capped,200,,,UnSold
+31,FA4,Dhawal Kulkarni,India,MCA,33,BOWLER,RHB,RIGHT ARM Fast Medium,92,"GL, RR, MI",MI,Capped,75,,,UnSold
+31,FA4,Saqib Mahmood,England,,25,BOWLER,RHB,RIGHT ARM Fast,,,,Capped,200,,,UnSold
+31,FA4,Kane Richardson,Australia,,31,BOWLER,RHB,RIGHT ARM Fast Medium,15,"PWI, RR, RCB",RCB,Capped,150,,,UnSold
+31,FA4,Naveen Ul Haq,Afghanistan,,22,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Capped,50,,,UnSold
+32,UBA4,Harpreet Bhatia,India,CSCSCA,30,BATSMAN,LHB,RIGHT ARM Medium,4,"KKR, PWI, RCB",,Uncapped,40,,,UnSold
+32,UBA4,Sudip Chatterjee,India,CAB,30,BATSMAN,LHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+32,UBA4,Hiten Dalal,India,DDCA,27,BATSMAN,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+32,UBA4,Abhimanyu Easwaran,India,CAB,26,BATSMAN,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+32,UBA4,Laurie Evans,England,,34,BATSMAN,RHB,-,,,,Uncapped,40,,,UnSold
+32,UBA4,Rahul Gahlaut,India,SSCB,26,BATSMAN,LHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+32,UBA4,Amandeep Khare,India,CSCSCA,24,BATSMAN,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+32,UBA4,Mayank Rawat,India,DDCA,22,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+32,UBA4,Dhruv Shorey,India,DDCA,29,BATSMAN,RHB,RIGHT ARM Off Spin,2,CSK,,Uncapped,20,,,UnSold
+33,UAL4,Hayden Kerr,Australia,,25,ALL-ROUNDER,RHB,LEFT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+33,UAL4,Saurabh Kumar,India,UPCA,28,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,"RPS, PBKS",,Uncapped,20,,,UnSold
+33,UAL4,Shams Mulani,India,MCA,25,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+33,UAL4,Dhruv Patel,India,BCA,24,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+33,UAL4,Atit Sheth,India,BCA,26,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+33,UAL4,Utkarsh Singh,India,JSCA,23,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,0,PBKS,,Uncapped,20,,,UnSold
+33,UAL4,David Wiese,Namibia,,36,ALL-ROUNDER,RHB,RIGHT ARM Medium,15,RCB,,Associate,50,,,UnSold
+34,UWK3,Kaif Ahmad,India,CAB,24,WICKETKEEPER,RHB,-,,,,Uncapped,20,,,UnSold
+34,UWK3,Shubhum Arora,India,HPCA,24,WICKETKEEPER,LHB,-,,,,Uncapped,20,,,UnSold
+34,UWK3,Arun Karthick,India,TNCA,36,WICKETKEEPER,RHB,RIGHT ARM Leg Spin,17,"CSK, RCB",,Uncapped,40,,,UnSold
+34,UWK3,Eknath Kerkar,India,GCA,28,WICKETKEEPER,RHB,-,,,,Uncapped,20,,,UnSold
+34,UWK3,Kennar Lewis,West Indies,,30,WICKETKEEPER,RHB,-,,,,Uncapped,40,,,UnSold
+34,UWK3,Nikhil Naik,India,MACA,27,WICKETKEEPER,RHB,-,4,"KXIP, KKR",,Uncapped,20,,,UnSold
+34,UWK3,Urvil Patel,India,GUCA,23,WICKETKEEPER,RHB,-,,,,Uncapped,20,,,UnSold
+34,UWK3,B.R. Sharath,India,KSCA,25,WICKETKEEPER,RHB,-,,,,Uncapped,20,,,UnSold
+34,UWK3,K.L. Shrijith,India,KSCA,25,WICKETKEEPER,LHB,-,,,,Uncapped,20,,,UnSold
+35,UFA4,Mohit Avasthi,India,MCA,29,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+35,UFA4,Sushant Mishra,India,JSCA,21,BOWLER,LHB,LEFT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+35,UFA4,Matheesha Pathirana,Sri Lanka,,19,BOWLER,RHB,RIGHT ARM Fast,,,,Uncapped,20,,,UnSold
+35,UFA4,G Periyasamy,India,TNCA,28,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+35,UFA4,M.Harishankar Reddy,India,ACA,23,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+35,UFA4,R. Silambarasan,India,TNCA,29,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+35,UFA4,Aditya Thakare,India,VCA,23,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+35,UFA4,Tanveer Ul Haq,India,RCA,30,BOWLER,RHB,LEFT ARM Fast,,,,Uncapped,20,,,UnSold
+35,UFA4,Prithviraj Yarra,India,ACA,24,BOWLER,LHB,LEFT ARM Fast,2,"KKR, SRH",,Uncapped,20,,,UnSold
+36,USP3,Satyajeet Bachhav,India,MACA,29,BOWLER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+36,USP3,Chintal Gandhi,India,BCA,27,BOWLER,LHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+36,USP3,Jacob Lintott,England,,28,BOWLER,RHB,LEFT ARM Slow Unorthodox,,,,Uncapped,20,,,UnSold
+36,USP3,Izharulhuq Naveed,Afghanistan,,18,BOWLER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+36,USP3,Tanveer Sangha,Australia,,20,BOWLER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+36,USP3,Manav Suthar,India,RCA,19,BOWLER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+36,USP3,Milind Tandon,India,DDCA,28,BOWLER,RHB,LEFT ARM Slow Unorthodox,0,RPS,,Uncapped,20,,,UnSold
+36,USP3,Sagar Udeshi,India,CAP,35,BOWLER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+36,USP3,Kushaal Wadhwani,India,KSCA,25,BOWLER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+36,USP3,Akshay Wakhare,India,VCA,36,BOWLER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+37,BA5,Darren Bravo,West Indies,,33,BATSMAN,LHB,-,1,KKR,,Capped,75,,,UnSold
+37,BA5,Shamrah Brooks,West Indies,,33,BATSMAN,RHB,RIGHT ARM Leg Spin,,,,Capped,50,,,UnSold
+37,BA5,Avishka Fernando,Sri Lanka,,24,BATSMAN,RHB,RIGHT ARM Medium,,,,Capped,50,,,UnSold
+37,BA5,Zubayr Hamza,South Africa,,26,BATSMAN,RHB,RIGHT ARM Leg Spin,,,,Capped,50,,,UnSold
+37,BA5,Pathum Nissaanka,Sri Lanka,,23,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Capped,50,,,UnSold
+37,BA5,Kurtis Patterson,Australia,,29,BATSMAN,LHB,-,,,,Capped,50,,,UnSold
+37,BA5,Hashmatullah Shahidi,Afghanistan,,27,BATSMAN,LHB,RIGHT ARM Off Spin,,,,Capped,50,,,UnSold
+37,BA5,Manoj Tiwary,India,CAB,36,BATSMAN,RHB,RIGHT ARM Leg Spin,98,"DD, KKR, RPS, KXIP",,Capped,50,,,UnSold
+38,AL5,Ashton Agar,Australia,,28,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Capped,200,,,UnSold
+38,AL5,Carlos Brathwaite,West Indies,,33,ALL-ROUNDER,RHB,RIGHT ARM Fast,16,"DD, SRH, KKR",,Capped,75,,,UnSold
+38,AL5,Kedar Jadhav,India,MACA,37,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,93,"KTK, DD, RCB, CSK, SRH",SRH,Capped,100,,,UnSold
+38,AL5,Colin Munro,New Zealand,,35,ALL-ROUNDER,LHB,RIGHT ARM Medium,13,"KKR, DC",,Capped,150,,,UnSold
+38,AL5,Gulbadin Naib,Afghanistan,,30,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,Capped,50,,,UnSold
+38,AL5,Keemo Paul,West Indies,,24,ALL-ROUNDER,RHB,RIGHT ARM Fast,8,DC,,Capped,75,,,UnSold
+38,AL5,Parvez Rasool,India,JKCA,33,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,11,"PWI,SRH, RCB",,Capped,50,,,UnSold
+38,AL5,Dasun Shanaka,Sri Lanka,,30,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,Capped,50,,,UnSold
+39,FA5,Wesley Agar,Australia,,25,BOWLER,RHB,RIGHT ARM Fast,,,,Capped,50,,,UnSold
+39,FA5,Shoriful Islam,Bangladesh,,20,BOWLER,LHB,LEFT ARM Fast Medium,,,,Capped,50,,,UnSold
+39,FA5,Josh Little,Ireland,,22,BOWLER,RHB,LEFT ARM Fast Medium,,,,Capped,50,,,UnSold
+39,FA5,Blessing Muzarabani,Zimbabwe,,25,BOWLER,RHB,RIGHT ARM Fast,,,,Capped,50,,,UnSold
+39,FA5,Jayden Seales,West Indies,,20,BOWLER,LHB,RIGHT ARM Fast,,,,Capped,50,,,UnSold
+39,FA5,Mohit Sharma,India,HCA,33,BOWLER,RHB,RIGHT ARM Fast Medium,86,"KXIP, CSK, DC",,Capped,50,,,UnSold
+39,FA5,Barinder Sran,India,PCA,29,BOWLER,LHB,LEFT ARM Fast Medium,24,"RR, SRH, KXIP, MI",,Capped,50,,,UnSold
+39,FA5,Billy Stanlake,Australia,,27,BOWLER,LHB,RIGHT ARM Fast,6,"RCB, SRH",,Capped,75,,,UnSold
+39,FA5,Neil Wagner,New Zealand,,36,BOWLER,LHB,LEFT ARM Fast Medium,,,,Capped,50,,,UnSold
+40,UBA5,Qamran Iqbal,India,JKCA,20,BATSMAN,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+40,UBA5,Ishank Jaggi,India,JSCA,33,BATSMAN,RHB,-,7,"DCH, KKR",,Uncapped,20,,,UnSold
+40,UBA5,Rohan Kunnummal,India,KCA,23,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+40,UBA5,Tanmay Mishra,India,MCA,35,BATSMAN,RHB,RIGHT ARM Off Spin,1,DCH,,Uncapped,20,,,UnSold
+40,UBA5,Yash Nahar,India,MACA,27,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+40,UBA5,Shubham Singh Rohilla,India,HCA,24,BATSMAN,LHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+40,UBA5,Alex Ross,Australia,,29,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+40,UBA5,Naushad Shaikh,India,MACA,30,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+41,UAL5,Baba Aparajith,India,TNCA,27,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,RPS,,Uncapped,20,,,UnSold
+41,UAL5,Prayas Barman,India,CAB,19,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,1,RCB,,Uncapped,20,,,UnSold
+41,UAL5,Yudhvir Charak,India,HYCA,24,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,MI,MI,Uncapped,20,,,UnSold
+41,UAL5,Shubhang Hegde,India,KSCA,21,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+41,UAL5,Roosh Kalaria,India,GUCA,29,ALL-ROUNDER,RHB,LEFT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+41,UAL5,Tanush Kotian,India,MCA,23,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+41,UAL5,Kaushal Tambe,India,MACA,19,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+41,UAL5,Shivank Vashisth,India,DDCA,26,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+42,UWK4,Rahul Chandrol,India,MPCA,21,WICKETKEEPER,RHB,-,,,,Uncapped,20,,,UnSold
+42,UWK4,Harvik Desai,India,SCA,22,WICKETKEEPER,RHB,-,,,,Uncapped,20,,,UnSold
+42,UWK4,Cam Fletcher,New Zealand,,29,WICKETKEEPER,RHB,-,,,,Uncapped,20,,,UnSold
+42,UWK4,Tarang Gohel,India,SCA,22,WICKETKEEPER,RHB,-,,,,Uncapped,20,,,UnSold
+42,UWK4,Fazil Makaya,India,JKCA,25,WICKETKEEPER,RHB,-,,,,Uncapped,20,,,UnSold
+42,UWK4,Ryan Rickelton,South Africa,,25,WICKETKEEPER,LHB,-,,,,Uncapped,20,,,UnSold
+42,UWK4,Sandeep Kumar Tomar,India,UPCA,23,WICKETKEEPER,LHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+42,UWK4,Siddhesh Wath,India,VCA,24,WICKETKEEPER,RHB,-,,,,Uncapped,20,,,UnSold
+43,UFA5,Stephen Cheepurupalli,India,ACA,28,BOWLER,LHB,LEFT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+43,UFA5,Aniket Choudhary,India,RCA,32,BOWLER,RHB,LEFT ARM Fast Medium,5,RCB,,Uncapped,20,,,UnSold
+43,UFA5,Kartikeya Kak,India,HYCA,25,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+43,UFA5,Ali Khan,USA,,31,BOWLER,RHB,RIGHT ARM Fast,0,KKR,,Associate,40,,,UnSold
+43,UFA5,Kulwant Khejroliya,India,DDCA,30,BOWLER,LHB,LEFT ARM Fast,5,"MI, RCB, DC",DC,Uncapped,20,,,UnSold
+43,UFA5,Ronit More,India,KSCA,30,BOWLER,RHB,RIGHT ARM Fast Medium,2,CSK,,Uncapped,20,,,UnSold
+43,UFA5,M Nidheesh,India,KCA,30,BOWLER,RHB,RIGHT ARM Fast Medium,0,MI,,Uncapped,20,,,UnSold
+43,UFA5,Babasafi Pathan,India,BCA,27,BOWLER,RHB,RIGHT ARM Fast,,,,Uncapped,20,,,UnSold
+43,UFA5,Vidyadhar Patil,India,KSCA,21,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+43,UFA5,Mukesh Kumar Singh,India,CAB,28,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+44,USP4,R. Alexandar,India,TNCA,26,BOWLER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+44,USP4,Adithya Ashok,New Zealand,,19,BOWLER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+44,USP4,Jasmer Dhankhar,India,UPCA,23,BOWLER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+44,USP4,Prerit Dutta,India,PCA,23,BOWLER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+44,USP4,Jon Russ Jaggesar,West Indies,,36,BOWLER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+44,USP4,S. Kishan Kumar,India,TNCA,22,BOWLER,LHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+44,USP4,Kevin Koththigoda,Sri Lanka,,23,BOWLER,LHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+44,USP4,Swaraj Wabale,India,MACA,24,BOWLER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+45,AL6,Curtis Campher,Ireland,,22,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Capped,50,,,UnSold
+45,AL6,Colin De Grandhomme,New Zealand,,35,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,25,"KKR, RCB",,Capped,100,,,UnSold
+45,AL6,James Faulkner,Australia,,31,ALL-ROUNDER,RHB,LEFT ARM Medium,60,"PWI, KXIP, RR, GL",,Capped,100,,,UnSold
+45,AL6,Craig Overton,England,,27,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Capped,200,,,UnSold
+45,AL6,Wayne Parnell,South Africa,,32,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,26,"PWI, DD",,Capped,50,,,UnSold
+45,AL6,Samit Patel,England,,37,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,Capped,50,,,UnSold
+45,AL6,Thisara Perera,Sri Lanka,,33,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,37,"CSK, KTK, MI, SRH, KXIP, RPS",,Capped,50,,,UnSold
+45,AL6,Darcy Short,Australia,,31,ALL-ROUNDER,LHB,LEFT ARM Slow Unorthodox,7,RR,,Capped,100,,,UnSold
+45,AL6,Murali Vijay,India,TNCA,38,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,106,"DD, KXIP, CSK",,Capped,50,,,UnSold
+45,AL6,Jack Wildermuth,Australia,,28,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Capped,50,,,UnSold
+46,FA6,Hamish Bennett,New Zealand,,35,BOWLER,LHB,RIGHT ARM Fast Medium,,,,Capped,50,,,UnSold
+46,FA6,Daryn Dupavillon,South Africa,,27,BOWLER,RHB,RIGHT ARM Fast,,,,Capped,50,,,UnSold
+46,FA6,Fidel Edwards,West Indies,,40,BOWLER,RHB,RIGHT ARM Fast,6,DCH,,Capped,50,,,UnSold
+46,FA6,Hamid Hassan,Afghanistan,,34,BOWLER,RHB,RIGHT ARM Fast,,,,Capped,50,,,UnSold
+46,FA6,Lahiru Kumara,Sri Lanka,,25,BOWLER,RHB,RIGHT ARM Fast,,,,Capped,50,,,UnSold
+46,FA6,Joel Paris,Australia,,29,BOWLER,LHB,LEFT ARM Fast Medium,,,,Capped,50,,,UnSold
+46,FA6,S. Sreesanth,India,KCA,39,BOWLER,RHB,RIGHT ARM Fast Medium,44,"KXIP, KTK, RR",,Capped,50,,,UnSold
+46,FA6,Oshane Thomas,West Indies,,25,BOWLER,LHB,RIGHT ARM Fast,4,RR,,Capped,50,,,UnSold
+46,FA6,Blair Tickner,New Zealand,,28,BOWLER,RHB,RIGHT ARM Fast,,,,Capped,50,,,UnSold
+46,FA6,Isuru Udana,Sri Lanka,,34,BOWLER,RHB,LEFT ARM Fast Medium,10,RCB,,Capped,50,,,UnSold
+47,UBA6,Donavon Ferreira,South Africa,,23,BATSMAN,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+47,UBA6,Bhupen Lalwani,India,MCA,23,BATSMAN,RHB,-,,,,Uncapped,20,,,UnSold
+47,UBA6,Henan Malik,India,JKCA,25,BATSMAN,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+47,UBA6,Pukhraj Mann,India,PCA,20,BATSMAN,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+47,UBA6,Shashwat Rawat,India,BCA,21,BATSMAN,LHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+47,UBA6,Jake Weatherald,Australia,,27,BATSMAN,LHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+48,UAL6,Gerald Coetzee,South Africa,,21,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,Uncapped,20,,,UnSold
+48,UAL6,Akshay Karnewar,India,VCA,29,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+48,UAL6,Sumit Kumar,India,HCA,26,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,Uncapped,20,,,UnSold
+48,UAL6,Abid Mushtaq,India,JKCA,25,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+48,UAL6,Lone Muzaffar,India,JKCA,24,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+48,UAL6,Ninad Rathva,India,BCA,23,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+48,UAL6,Shoun Roger,India,KCA,19,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+49,UFA6,Jaideep Bhambhu,India,HCA,23,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+49,UFA6,Nandre Burger,South Africa,,26,BOWLER,LHB,LEFT ARM Fast,,,,Uncapped,20,,,UnSold
+49,UFA6,Matt Kelly,Australia,,27,BOWLER,RHB,RIGHT ARM Fast Medium,0,KKR,,Uncapped,30,,,UnSold
+49,UFA6,V Koushik,India,KSCA,29,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+49,UFA6,Akash Madhwal,India,CAU,28,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+49,UFA6,Amit Mishra,India,UPCA,30,BOWLER,RHB,RIGHT ARM Fast Medium,0,"RR, GL",,Uncapped,20,,,UnSold
+49,UFA6,Anuj Raj,India,BICA,21,BOWLER,RHB,LEFT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+49,UFA6,Abhijeet Saket,India,BICA,26,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+49,UFA6,Rahul Shukla,India,JSCA,31,BOWLER,RHB,RIGHT ARM Fast,7,"MI, RR, DD",,Uncapped,20,,,UnSold
+49,UFA6,Nuwan Thushara,Sri Lanka,,27,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+50,AL7,Mark Adnair,Ireland,,26,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,Capped,50,,,UnSold
+50,AL7,Hilton Cartwright,Australia,,30,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,Capped,50,,,UnSold
+50,AL7,Gareth Delany,Ireland,,24,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,Capped,50,,,UnSold
+50,AL7,Danushka Gunatilaka,Sri Lanka,,31,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,,,Capped,50,,,UnSold
+50,AL7,Anaru Kitchen,New Zealand,,38,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,Capped,50,,,UnSold
+50,AL7,Dhananjaya Lakshan,Sri Lanka,,23,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,,,,Capped,50,,,UnSold
+50,AL7,Sisanda Magala,South Africa,,31,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,Capped,50,,,UnSold
+50,AL7,Andile Phehlukwayo,South Africa,,26,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,,,,Capped,50,,,UnSold
+50,AL7,Seekkuge Prasanna,Sri Lanka,,36,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,Capped,50,,,UnSold
+50,AL7,Raymon Reifer,West Indies,,30,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,,,,Capped,50,,,UnSold
+51,UAL7,Amit Ali,India,TCA,19,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+51,UAL7,Chaitanya Bishnoi,India,HCA,27,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,CSK,,Uncapped,20,,,UnSold
+51,UAL7,Mayank Dagar,India,HPCA,25,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,0,KXIP,,Uncapped,20,,,UnSold
+51,UAL7,Migael Pretorius,South Africa,,27,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+51,UAL7,Shivam Sharma,India,DDCA,28,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,5,KXIP,,Uncapped,20,,,UnSold
+51,UAL7,Pratyush Singh,India,BICA,27,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,0,"CSK, DD",,Uncapped,20,,,UnSold
+51,UAL7,Sanvir Singh,India,PCA,25,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+51,UAL7,Dhrushant Soni,India,RSPB,26,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+51,UAL7,M Venkatesh,India,KSCA,21,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+52,UFA7,Bandaru Ayyappa,India,ACA,29,BOWLER,RHB,RIGHT ARM Fast Medium,0,DC,,Uncapped,20,,,UnSold
+52,UFA7,Gurnoor Singh Brar,India,PCA,21,BOWLER,LHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+52,UFA7,Akash Choudhary,India,MECA,22,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+52,UFA7,Mohit Jangra,India,UPCA,22,BOWLER,LHB,LEFT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+52,UFA7,Aaqib Khan,India,UPCA,18,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+52,UFA7,Ruben Trumpelmann,Namibia,,24,BOWLER,RHB,LEFT ARM Fast,,,,Associate,20,,,UnSold
+52,UFA7,Brad Wheal,Scotland,,25,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Associate,50,,,UnSold
+53,UAL8,Auqib Dar,India,JKCA,25,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+53,UAL8,Chirag Gandhi,India,GUCA,31,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+53,UAL8,Chris Green,Australia,,28,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,1,KKR,,Uncapped,40,,,UnSold
+53,UAL8,Sijomon Joseph,India,KCA,24,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+53,UAL8,Anirudha Joshi,India,KSCA,34,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,"RCB, RR, DC",DC,Uncapped,20,,,UnSold
+53,UAL8,Mohd. Arshad Khan,India,MPCA,24,ALL-ROUNDER,LHB,LEFT ARM Fast Medium,,,,Uncapped,20,20 L,Mumbai Indians,Sold
+53,UAL8,Shubham Sharma,India,RCA,25,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+53,UAL8,Shubham Singh,India,CSCSCA,25,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+53,UAL8,K.Bhagath Varma,India,HYCA,23,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,CSK,CSK,Uncapped,20,20 L,Chennai Super Kings,Sold
+54,UFA8,Arpit Guleria,India,HPCA,24,BOWLER,RHB,RIGHT ARM Fast,,,,Uncapped,20,,,UnSold
+54,UFA8,Vipul Krishna,India,BICA,21,BOWLER,RHB,LEFT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+54,UFA8,Safvan Patel,India,BCA,23,BOWLER,RHB,LEFT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+54,UFA8,Chinntla Readdi,India,HYCA,21,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+54,UFA8,Manish Reddy,India,HYCA,23,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+54,UFA8,Ravi Sharma,India,RCA,25,BOWLER,RHB,RIGHT ARM Fast,,,,Uncapped,20,,,UnSold
+54,UFA8,Shubham Singh,India,JSCA,23,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+55,UAL9,Corbin Bosch,South Africa,,27,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,Uncapped,20,,,UnSold
+55,UAL9,Nathan McAndrew,Australia,,28,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+55,UAL9,Diwesh Pathania,India,SSCB,32,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,Uncapped,20,,,UnSold
+55,UAL9,Shubham Ranjane,India,GCA,28,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,0,RR,,Uncapped,20,,,UnSold
+55,UAL9,Tom Rogers,Australia,,28,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+55,UAL9,Johannes Smit,Namibia,,26,ALL-ROUNDER,RHB,LEFT ARM Medium,,,,Associate,20,,,UnSold
+55,UAL9,Sagar Trivedi,India,CAP,30,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,0,RR,,Uncapped,20,,,UnSold
+55,UAL9,Harsh Tyagi,India,RSPB,22,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+55,UAL9,R. Vivek,India,TNCA,30,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+55,UAL9,R.Sonu Yadav,India,TNCA,22,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+56,UFA9,V. Athisayaraj,India,TNCA,29,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+56,UFA9,Ottneil Baartman,South Africa,,29,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+56,UFA9,M.B. Darshan,India,KSCA,26,BOWLER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+56,UFA9,V. Gowtham,India,TNCA,19,BOWLER,LHB,LEFT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+56,UFA9,Khwezi Gumede,South Africa,,22,BOWLER,RHB,LEFT ARM Fast,,,,Uncapped,20,,,UnSold
+56,UFA9,Liam Guthrie,Australia,,24,BOWLER,LHB,LEFT ARM Fast,,,,Uncapped,20,,,UnSold
+56,UFA9,Liam Hatcher,Australia,,25,BOWLER,RHB,RIGHT ARM Fast,,,,Uncapped,20,,,UnSold
+57,UAL10,Jay Bista,India,CAU,26,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+57,UAL10,Saurav Chuahan,India,GUCA,21,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+57,UAL10,Tajinder Dhillon,India,RCA,29,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,"MI, KXIP",,Uncapped,20,,,UnSold
+57,UAL10,Dikshanshu Negi,India,CAU,31,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+57,UAL10,Abhishek Raut,India,OCA,35,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,22,RR,,Uncapped,20,,,UnSold
+57,UAL10,K.V. Sasikanth,India,ACA,26,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+57,UAL10,Bharat Sharma,India,CAP,26,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+57,UAL10,Shivam Sharma,India,UPCA,26,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,5,KXIP,,Uncapped,20,,,UnSold
+57,UAL10,Amit Yadav,India,GCA,32,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,0,KXIP,,Uncapped,20,,,UnSold
+58,UAL11,Manoj Bhandage,India,KSCA,23,ALL-ROUNDER,LHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+58,UAL11,Arun Chaprana,India,HCA,28,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,Uncapped,20,,,UnSold
+58,UAL11,Ajay Dev Goud,India,HYCA,22,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+58,UAL11,Divyang Hinganekar,India,MACA,28,ALL-ROUNDER,RHB,LEFT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+58,UAL11,Azim Kazi,India,MACA,28,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+58,UAL11,Sujit Nayak,India,MCA,32,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+58,UAL11,Parth Sahani,India,MPCA,29,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+58,UAL11,Ashutosh Sharma,India,MPCA,23,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+58,UAL11,Vivrant Sharma,India,JKCA,22,ALL-ROUNDER,LHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+58,UAL11,Kumar Kartikeya Singh,India,MPCA,24,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+59,UAL12,Ravi Chauhan,India,SSCB,28,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+59,UAL12,Shafiqullah Ghafari,Afghanistan,,20,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+59,UAL12,M. Mohammed,India,TNCA,30,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+59,UAL12,Pulkit Narang,India,SSCB,27,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+59,UAL12,Pradosh Paul,India,TNCA,21,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+59,UAL12,Pushpendra Singh Rathore,India,RCA,20,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+59,UAL12,Jason Sangha,Australia,,22,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+59,UAL12,Purnank Tyagi,India,UPCA,21,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+59,UAL12,Samarth Vyas,India,SCA,26,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+60,UAL13,Duan Jansen,South Africa,,21,ALL-ROUNDER,RHB,LEFT ARM Fast,,,,Uncapped,20,,,UnSold
+60,UAL13,Dev Lakra,India,DDCA,19,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+60,UAL13,Ajay Mandal,India,CSCSCA,26,ALL-ROUNDER,LHB,LEFT ARM Slow Unorthodox,,,,Uncapped,20,,,UnSold
+60,UAL13,Lakhan Raja,India,BICA,27,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+60,UAL13,Girinath Reddy,India,ACA,23,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+60,UAL13,Siddhant Sharma,India,DDCA,25,ALL-ROUNDER,LHB,LEFT ARM Medium,,,,Uncapped,20,,,UnSold
+60,UAL13,Matthew Short,Australia,,26,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+60,UAL13,Saurin Thakar,India,BCA,23,ALL-ROUNDER,RHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+60,UAL13,Nyeem Young,West Indies,,21,ALL-ROUNDER,RHB,RIGHT ARM Medium,,,,Uncapped,20,,,UnSold
+61,UAL14,Yuvraj Chaudhary,India,UTCA,20,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+61,UAL14,Khizar Dafedar,India,MCA,24,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+61,UAL14,Sahil Dhiwan,India,RCA,24,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+61,UAL14,Arjit Gupta,India,RCA,32,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+61,UAL14,Mickil Jaiswal,India,HYCA,23,ALL-ROUNDER,RHB,RIGHT ARM Leg Spin,,,,Uncapped,20,,,UnSold
+61,UAL14,Ryan John,West Indies,,24,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+61,UAL14,J. Kousik,India,TNCA,26,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+61,UAL14,Jitender Pal,India,HCA,22,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+61,UAL14,Jonty Sidhu,India,DDCA,24,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+61,UAL14,Yashovardhan Singh,India,UPCA,19,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+61,UAL14,Beyers Swanepoel,South Africa,,23,ALL-ROUNDER,LHB,RIGHT ARM Fast,,,,Uncapped,20,,,UnSold
+61,UAL14,Pranshu Vijayran,India,DDCA,26,ALL-ROUNDER,LHB,RIGHT ARM Fast,,,,Uncapped,20,,,UnSold
+62,UAL15,Ishan Afridi,India,MPCA,19,ALL-ROUNDER,RHB,RIGHT ARM Fast,,,,Uncapped,20,,,UnSold
+62,UAL15,Mohammed Afridi,India,HYCA,23,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+62,UAL15,Prerit Agrawal,India,VCA,20,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold
+62,UAL15,Aidan Cahill,Australia,,19,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+62,UAL15,Mark Deyal,West Indies,,28,ALL-ROUNDER,LHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+62,UAL15,Nidhish Rajagopal,India,TNCA,22,ALL-ROUNDER,LHB,RIGHT ARM Fast,,,,Uncapped,20,,,UnSold
+62,UAL15,Bavanaka Sandeep,India,HYCA,29,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,0,SRH,,Uncapped,20,,,UnSold
+62,UAL15,Safyaan Sharif,Scotland,,30,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Associate,20,,,UnSold
+62,UAL15,Henry Shipley,New Zealand,,25,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+62,UAL15,Maxwell Swaminathan,India,MCA,23,ALL-ROUNDER,RHB,RIGHT ARM Off Spin,,,,Uncapped,20,,,UnSold
+62,UAL15,Johan Van Dyk,South Africa,,28,ALL-ROUNDER,RHB,RIGHT ARM Fast Medium,,,,Uncapped,20,,,UnSold
+62,UAL15,Dunith Wellalage,Sri Lanka,,19,ALL-ROUNDER,LHB,LEFT ARM Slow Orthodox,,,,Uncapped,20,,,UnSold

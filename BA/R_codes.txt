@@ -1,0 +1,308 @@
+> library(readxl)
+Warning message:
+package ‘readxl’ was built under R version 4.0.5 
+> OneSampletest <- read_excel("~/Desktop/OneSampletest.xlsx")
+> View(OneSampletest)                                                                            
+> summary(OneSampletest$`Disc Diameter`)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  321.9   322.0   322.0   322.0   322.0   322.1 
+> plot(OneSampletest$Machine, OneSampletest$`Disc Diameter`)
+> hist(OneSampletest$`Disc Diameter`)
+> t.test(OneSampletest$`Disc Diameter`)
+
+	One Sample t-test
+
+data:  OneSampletest$`Disc Diameter`
+t = 129261, df = 127, p-value < 2.2e-16
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 321.9869 321.9968
+sample estimates:
+mean of x 
+ 321.9918 
+
+> t.test(OneSampletest$`Disc Diameter`, mu=322, alternative = "two.sided")
+
+	One Sample t-test
+
+data:  OneSampletest$`Disc Diameter`
+t = -3.2772, df = 127, p-value = 0.001352
+alternative hypothesis: true mean is not equal to 322
+95 percent confidence interval:
+ 321.9869 321.9968
+sample estimates:
+mean of x 
+ 321.9918 
+
+> t.test(OneSampletest$`Disc Diameter`, mu=322, alternative = "two.sided", conf.level = 0.95)
+
+	One Sample t-test
+
+data:  OneSampletest$`Disc Diameter`
+t = -3.2772, df = 127, p-value = 0.001352
+alternative hypothesis: true mean is not equal to 322
+95 percent confidence interval:
+ 321.9869 321.9968
+sample estimates:
+mean of x 
+ 321.9918 
+
+> library(readxl)
+> Book1_ANS <- read_excel("~/Documents/Book1_ANS.xlsx")
+> View(Book1_ANS)                                                                                
+> t.test(Book1_ANS$Hyderabad, Book1_ANS$Warangal, mu=0, var.equal = TRUE, paired = FALSE, conf.level = 0.95)
+
+	Two Sample t-test
+
+data:  Book1_ANS$Hyderabad and Book1_ANS$Warangal
+t = -2.7452, df = 28, p-value = 0.01044
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -1.7461895 -0.2538105
+sample estimates:
+mean of x mean of y 
+ 3.733333  4.733333 
+
+> library(readxl)
+> Hypothesis_testing <- read_excel("~/Desktop/Hypothesis testing.xlsx", 
++     sheet = "Sheet3")
+> View(Hypothesis_testing)                                                                       
+> t.test(Hypothesis_testing$Before, Hypothesis_testing$After,mu = 0, alternative = "less" ,paired = TRUE, conf.level = 0.95)
+
+	Paired t-test
+
+data:  Hypothesis_testing$Before and Hypothesis_testing$After
+t = -8.1918, df = 17, p-value = 1.32e-07
+alternative hypothesis: true difference in means is less than 0
+95 percent confidence interval:
+    -Inf -1.9691
+sample estimates:
+mean of the differences 
+                   -2.5 
+
+> library(readxl)
+> Hypothesis_testing <- read_excel("~/Desktop/Hypothesis testing.xlsx", 
++     sheet = "Sheet8")
+> View(Hypothesis_testing)                                                                       
+> t.test(Hypothesis_testing$Apson, Hypothesis_testing$Okay,mu = 0, alternative = "less" ,paired = TRUE, conf.level = 0.95)
+
+	Paired t-test
+
+data:  Hypothesis_testing$Apson and Hypothesis_testing$Okay
+t = -0.98089, df = 8, p-value = 0.1777
+alternative hypothesis: true difference in means is less than 0
+95 percent confidence interval:
+     -Inf 4.578407
+sample estimates:
+mean of the differences 
+              -5.111111 
+
+> t.test(Hypothesis_testing$Okay, Hypothesis_testing$Apson,mu = 0, alternative = "less" ,paired = TRUE, conf.level = 0.95)
+
+	Paired t-test
+
+data:  Hypothesis_testing$Okay and Hypothesis_testing$Apson
+t = 0.98089, df = 8, p-value = 0.8223
+alternative hypothesis: true difference in means is less than 0
+95 percent confidence interval:
+     -Inf 14.80063
+sample estimates:
+mean of the differences 
+               5.111111 
+
+> x<-matrix(c(68, 32, 75, 45, 57, 33, 79, 31), nrow = 2)
+> view(x)
+Error in view(x) : could not find function "view"
+> View(x)
+> chisq.test(x)
+
+	Pearson's Chi-squared test
+
+data:  x
+X-squared = 2.7606, df = 3, p-value = 0.43
+
+> library(readxl)
+> CHI_SQUARE_DATA_SET <- read_excel("~/Desktop/CHI SQUARE DATA SET.xlsx", 
++     sheet = "Sheet1")
+> View(CHI_SQUARE_DATA_SET)                                                                      
+> chisq.test(CHI_SQUARE_DATA_SET$`Educational Background`, CHI_SQUARE_DATA_SET$Grade)
+
+	Pearson's Chi-squared test
+
+data:  CHI_SQUARE_DATA_SET$`Educational Background` and CHI_SQUARE_DATA_SET$Grade
+X-squared = 13.75, df = 8, p-value = 0.08852
+
+Warning message:
+In chisq.test(CHI_SQUARE_DATA_SET$`Educational Background`, CHI_SQUARE_DATA_SET$Grade) :
+  Chi-squared approximation may be incorrect
+> library(readxl)
+> CHI_SQUARE_DATA_SET <- read_excel("~/Desktop/CHI SQUARE DATA SET.xlsx", 
++     sheet = "Sheet2")
+> View(CHI_SQUARE_DATA_SET)                                                                      
+> chisq.test(CHI_SQUARE_DATA_SET$AGE, CHI_SQUARE_DATA_SET$`SOFT DRINK`)
+
+	Pearson's Chi-squared test
+
+data:  CHI_SQUARE_DATA_SET$AGE and CHI_SQUARE_DATA_SET$`SOFT DRINK`
+X-squared = 18.229, df = 25, p-value = 0.8325
+
+Warning message:
+In chisq.test(CHI_SQUARE_DATA_SET$AGE, CHI_SQUARE_DATA_SET$`SOFT DRINK`) :
+  Chi-squared approximation may be incorrect
+> table(CHI_SQUARE_DATA_SET$AGE, CHI_SQUARE_DATA_SET$`SOFT DRINK`)
+       
+        COKE FRUIT JUICE MIRINDA PEPSI SLICE SPRITE
+  < 15     0           2       1     1     0      1
+  > 55     2           1       1     1     0      0
+  16-25    2           0       1     1     1      0
+  26-35    0           1       0     1     2      1
+  36-45    0           2       1     1     1      0
+  46-55    1           1       0     0     2      1
+> chisq.test(table)
+Error in x < 0 : 
+  comparison (3) is possible only for atomic and list types
+> library(readxl)
+> ANOVA <- read_excel("~/Desktop/ANOVA.xlsx")
+> View(ANOVA)                                                                                    
+> library(readxl)
+> ANOVA <- read_excel("~/Desktop/ANOVA.xlsx", 
++     sheet = "Sheet3")
+> View(ANOVA)                                                                                    
+> TM<-as.factor(ANOVA$TrainingMethod)
+> summary(aov(ANOVA$Production~TM))
+            Df Sum Sq Mean Sq F value Pr(>F)
+TM           2     40   20.00   1.354  0.292
+Residuals   13    192   14.77               
+> library(readxl)
+> ANOVA <- read_excel("~/Desktop/ANOVA.xlsx", 
++     sheet = "s1")
+> View(ANOVA)                                                                                    
+> ADC<-as.factor(ANOVA$AdCopy)
+> summary(aov(ANOVA$Rating~ADC))
+            Df Sum Sq Mean Sq F value Pr(>F)
+ADC          2    7.0   3.500    1.78  0.203
+Residuals   15   29.5   1.967               
+> library(readxl)
+> ANOVA <- read_excel("~/Desktop/ANOVA.xlsx", 
++     sheet = "s2")
+> View(ANOVA)                                                                                    
+> Adcop<-as.factor(ANOVA$AdCopy)
+> Magazine<-as.factor(ANOVA$Magazine)
+> summary(aov(ANOVA$Rating~Adcop+Magazine))
+            Df Sum Sq Mean Sq F value   Pr(>F)    
+Adcop        2  7.000   3.500   9.545 0.004800 ** 
+Magazine     5 25.833   5.167  14.091 0.000295 *
+Residuals   10  3.667   0.367                     
+---
+Signif. codes:  0 ‘*’ 0.001 ‘*’ 0.01 ‘’ 0.05 ‘.’ 0.1 ‘ ’ 1
+> library(readxl)
+> ANOVA <- read_excel("~/Desktop/ANOVA.xlsx", 
++     sheet = "s3_1")
+> View(ANOVA)                                                                                    
+> PROM = as.factor(ANOVA$Promotion)
+> SELF_POS = as.factor(ANOVA$Shelf_Position)
+> summary(aov(ANOVA$Detergent_Sales<-PROM*SELF_POS))
+Error: $ operator is invalid for atomic vectors
+In addition: Warning message:
+In Ops.factor(PROM, SELF_POS) : ‘*’ not meaningful for factors
+> library(readxl)
+> ANOVA <- read_excel("~/Desktop/ANOVA.xlsx", 
++     sheet = "s3_1")
+> View(ANOVA)                                                                                    
+> PROM = as.factor(ANOVA$Promotion)
+> SELF_POS = as.factor(ANOVA$Shelf_Position)
+> summary(aov(ANOVA$Detergent_Sales~PROM*SELF_POS))
+              Df Sum Sq Mean Sq F value   Pr(>F)    
+PROM           1   4201    4201  66.630 3.06e-06 *
+SELF_POS       2    883     442   7.003  0.00965 ** 
+PROM:SELF_POS  2    278     139   2.203  0.15317    
+Residuals     12    757      63                     
+---
+Signif. codes:  0 ‘*’ 0.001 ‘*’ 0.01 ‘’ 0.05 ‘.’ 0.1 ‘ ’ 1
+> library(readxl)
+> ANOVA <- read_excel("~/Desktop/ANOVA.xlsx", 
++     sheet = "s3")
+> View(ANOVA)
+
+*****************************************************************************************
+
+
+library(readxl)
+OneSampletest <- read_excel("E:/Desktop/Sem 6 Stuff/Business Analytics/OneSampletest.xlsx",
+sheet = "Sheet1")
+View(OneSampletest)
+t.test(OneSampletest$Machine)
+t.test(OneSampletest$Machine,mu=322,alternative="two.sided",conf.level = .95)
+t.test(OneSampletest$`Disc Diameter`,mu=322,alternative="two.sided",conf.level = .95)
+library(readxl)
+something <- read_excel("E:/Desktop/Sem 6 Stuff/Business Analytics/something.xlsx")
+View(something)
+t.test(something$Male, something$Male, alternative = "two.sided", var.equal = FALSE,conf.level = 0.95, mu = )
+t.test(something$Male, something$Male, alternative = "two.sided", var.equal = FALSE,conf.level = 0.95, mu = 0)
+t.test(something$Male, something$Female, alternative = "two.sided", var.equal = FALSE,conf.level = 0.95, mu = 0)
+t.test(something$Male, something$Female, alternative = "greater", var.equal = FALSE,conf.level = 0.95, mu = 0)
+t.test(something$Male, something$Female, alternative = "greater", var.equal = TRUE,conf.level = 0.95, mu = 0)
+t.test(something$Female,something$Male, alternative = "greater", var.equal = TRUE,conf.level = 0.95, mu = 0)
+library(readxl)
+pre <- read_excel("E:/Desktop/Sem 6 Stuff/Business Analytics/pre.xlsx",
+sheet = "Sheet2")
+View(pre)
+t.test(pre$Hyderabad, pre$Warangal, alternative = "two.sided", var.equal = TRUE,conf.level = 0.95, mu = 0)
+t.test(pre$Hyderabad, pre$Warangal, alternative = "two.sided", var.equal = TRUE,conf.level = 0.95, mu = 0,paired = FALSE)
+library(readxl)
+pre <- read_excel("E:/Desktop/Sem 6 Stuff/Business Analytics/pre.xlsx",
+sheet = "Sheet3")
+View(pre)
+t.test(pre$Before, pre$After, alternative = "two.sided", var.equal = TRUE,conf.level = 0.95, mu = 0,paired = TRUE)
+t.test(pre$Before, pre$After, alternative = "less", var.equal = TRUE,conf.level = 0.95, mu = 0,paired = TRUE)
+savehistory("E:/Desktop/something.txt")
+contigency_table<-matrix(c(68,75,57,79,32,45,33,31),nrow = 1)
+chisq.test(contigency_table)
+contigency_table<-matrix(c(68,75,57,79,32,45,33,31),nrow = 2)
+chisq.test(contigency_table)
+View(contigency_table)
+contigency_table<-matrix(c(68,32,75,45,57,33,79,31),nrow = 2)
+View(contigency_table)
+chisq.test(contigency_table)
+library(readxl)
+CHI_SQUARE_DATA_SET <- read_excel("E:/Desktop/Sem 6 Stuff/Business Analytics/CHI SQUARE DATA SET.xlsx",
+sheet = "Sheet1")
+View(CHI_SQUARE_DATA_SET)
+chisq.test(CHI_SQUARE_DATA_SET$`Educational Background`,CHI_SQUARE_DATA_SET$Grade)
+table(CHI_SQUARE_DATA_SET$`Educational Background`,CHI_SQUARE_DATA_SET$Grade)
+library(readxl)
+CHI_SQUARE_DATA_SET_2 <- read_excel("E:/Desktop/Sem 6 Stuff/Business Analytics/CHI SQUARE DATA SET.xlsx",
+sheet = "Sheet2")
+View(CHI_SQUARE_DATA_SET_2)
+chisq.test(CHI_SQUARE_DATA_SET_2$AGE,CHI_SQUARE_DATA_SET_2$`SOFT DRINK`)
+table(CHI_SQUARE_DATA_SET_2$AGE,CHI_SQUARE_DATA_SET_2$`SOFT DRINK`)
+chisq.test(CHI_SQUARE_DATA_SET_2$AGE,CHI_SQUARE_DATA_SET_2$`SOFT DRINK`)
+library(readxl)
+Book1 <- read_excel("E:/Desktop/Sem 6 Stuff/Business Analytics/Book1.xlsx",
+sheet = "Sheet3")
+View(Book1)
+tm<-as.factor(Book1$Training_Method)
+tm
+summary.aov(Book1$Daily_Prod~tm)
+summary(aov(Book1$Daily_Prod~tm))
+library(readxl)
+ANOVA <- read_excel("E:/Desktop/Sem 6 Stuff/Business Analytics/ANOVA.xlsx")
+View(ANOVA)
+cate<-as.factor(ANOVA$AdCopy)
+summary(aov(ANOVA$Rating~cate))
+library(readxl)
+ANOVA_2 <- read_excel("E:/Desktop/Sem 6 Stuff/Business Analytics/ANOVA.xlsx",
+sheet = "s2")
+View(ANOVA_2)
+cate_2<-as.factor(ANOVA_2$AdCopy)
+maga_2<-as.factor(ANOVA_2$Magazine)
+summary(aov(ANOVA_2$Rating~cate_2))
+summary(aov(ANOVA_2$Rating~cate_2+maga_2))
+library(readxl)
+ANOVA_3 <- read_excel("E:/Desktop/Sem 6 Stuff/Business Analytics/ANOVA.xlsx",
+sheet = "s3")
+View(ANOVA_3)
+promotion<-as.factor(ANOVA_3$Promotion)
+shelf_position<-as.factor(ANOVA_3$Shelf_Position)
+summary(aov(ANOVA_3$Detergent_Sales~promotion*shelf_position))
+savehistory("E:/Desktop/Sem 6 Stuff/Business Analytics/final_codes.txt")
